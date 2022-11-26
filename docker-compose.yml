@@ -1,0 +1,9 @@
+services:
+  app:
+    build:
+      context: .
+    user: "root"
+    tty: true
+    volumes:
+      - .:/app
+    restart: unless-stopped
