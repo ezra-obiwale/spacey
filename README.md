@@ -1,5 +1,7 @@
 # SpaceY
 
+> This is only the StateMachine implementation
+
 ## Prerequisites
 
 You need to have [Docker](https://docs.docker.com/get-docker/) installed with the [Compose](https://docs.docker.com/compose/install/) plugin.
